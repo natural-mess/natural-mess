@@ -5,6 +5,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true&hide=prs&count_private=true&rank_icon=default&include_all_commits=true)
+![Natural-mess's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true&count_private=true&rank_icon=default&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natural-mess&layout=compact)
+![Natural-mess's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natural-mess&layout=compact&theme=dark)
+
