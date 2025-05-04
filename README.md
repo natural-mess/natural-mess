@@ -5,7 +5,18 @@
 
 ---
 
-![Natural-mess's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true&count_private=true&rank_icon=default&theme=dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true" />
+</picture>
 
-![Natural-mess's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natural-mess&layout=compact&theme=dark)
+![Natural-mess's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natural-mess&theme=tokyonight)
+
 
