@@ -5,18 +5,15 @@
 
 ---
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true" />
-</picture>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=tokyonight&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natural-mess&theme=tokyonight&custom_title=Top%20Languages&hide_border=false&layout=compact" />
+</p>
 
-![Natural-mess's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natural-mess&theme=tokyonight)
+<!-- GitHub Activity Graph -->
+[![Natural Mess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natural-mess&theme=rogue)](https://github.com/natural-mess/github-readme-activity-graph)
+
+
+
 
 
