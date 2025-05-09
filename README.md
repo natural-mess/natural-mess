@@ -11,7 +11,7 @@
 </p>
 
 <!-- GitHub Activity Graph -->
-[![Natural Mess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natural-mess&theme=rogue)](https://github.com/natural-mess/github-readme-activity-graph)
+[![Natural Mess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natural-mess&theme=tokyo-night)](https://github.com/natural-mess/github-readme-activity-graph)
 
 
 
